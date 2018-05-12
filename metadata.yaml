@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35953'
     url: http://www.gutenberg.org/2009/agents/35953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32635#The-Diary-of-Philip-Westerly
 gutenberg_issued: '2010-06-01'
 gutenberg_type: Text
 identifiers:
